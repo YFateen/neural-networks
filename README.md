@@ -1,4 +1,4 @@
-# neural-networks
+# Neural Networks
 
 Trained neural networks to approximate a sinusoidal wave, classify handwritten digits, solve the cartpole task, and identify what language text is written in.
 
